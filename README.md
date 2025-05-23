@@ -36,10 +36,10 @@ Para utilizar os dados geoespaciais em seu projeto:
 2. Acesse a pasta do município desejado:
 
    ```bash
-   cd geodata-mg/NomeDoMunicipio
+   cd data/NomeDoMunicipio
    ```
 
-3. Utilize os arquivos shapefile (.shp) em seu software de SIG preferido.
+3. Utilize os arquivos em seu software.
 
 ## 🔄 Padronização de Nomes
 
