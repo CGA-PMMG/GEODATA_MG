@@ -1,4 +1,4 @@
-# geodata-mg
+# GEODATA_MG
 
 Repositório de dados geoespaciais dos municípios de Minas Gerais, mantido pelo Centro de Gerenciamento e Análise de Dados (CGA) da Polícia Militar de Minas Gerais (PMMG).
 
