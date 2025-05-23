@@ -13,15 +13,15 @@ A estrutura do repositório é organizada da seguinte forma:
 ```
 geodata-mg/
 ├── AbadiaDourados/
-│   └── AbadiaDourados.shp
+│   └── municipio.geojson
 ├── Abaete/
-│   └── Abaete.shp
+│   └── municipio.geojson
 ├── AbreCampo/
-│   └── AbreCampo.shp
+│   └── municipio.geojson
 ├── ...
 ```
 
-Cada pasta é nomeada com o nome do município correspondente, sem espaços, acentos ou conjunções (como "de", "do", "da"), seguindo um padrão que facilita a busca e o uso programático dos dados.
+Cada pasta é nomeada com o nome do município correspondente, sem espaços, acentos ou conjunções (como "de", "do", "da"), seguindo um padrão que facilita a busca e o uso programático dos dados, mais abixo está um exemplo de como realizar a normalização dos nomes dos municípios.
 
 ## 🧰 Utilização
 
